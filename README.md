@@ -11,7 +11,7 @@
  <br>
  <br>
  <h2 align="center"> Mobile</h2>
- <img src="prints/print2.jpeg">
+ <img src="prints/print2.jpeg" width="380px" height="550px">
 
 <br>
 
